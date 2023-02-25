@@ -1,5 +1,4 @@
 # Platformer2D
-Création d'un jeu platformer 2D en cours
+A 2D Platformer Game I created in 2022.
 
-Merci de tester le jeu et me dire ce qui va / ne va pas deçu. Me faire un rapport des beug rencontrés ou des améliorations possibles etc.
-Info complémentaire : Laisser la barre de saut appuyer permet de sauter plus haut
+If you try it, remember that holding space bar makes you jump higher.
